@@ -1,0 +1,19 @@
+[project]
+name = "vectors_navi"
+version = "0.0.1"
+authors = [
+  { name="Navindu Gunawardena", email="mnavindug@gmail.com" },
+]
+description = "A python package for simple vector operations"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = ""
+Issues = ""
+
